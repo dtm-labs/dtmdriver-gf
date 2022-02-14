@@ -1,0 +1,15 @@
+conf.yml
+*.out
+*.log
+*/**/main
+main
+dist
+.idea/**
+.vscode/*.json
+default.etcd
+*/**/*.bolt
+
+# Output file of unit test coverage
+coverage.*
+profile.*
+test.sh
